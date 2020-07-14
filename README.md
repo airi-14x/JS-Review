@@ -1,5 +1,5 @@
 # TheOdinProject-NodeJS
-Node JS - Projects and Assignments.
+NodeJS - Projects and Assignments.
 
 *Start: July 15th 2020*
 
