@@ -1,7 +1,7 @@
 # TheOdinProject-NodeJS
 NodeJS - Projects and Assignments.
 
-*Start: July 15th 2020*
+*Start: July 17th 2020*
 
 ### Tasks
 ---
