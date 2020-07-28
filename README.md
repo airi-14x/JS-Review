@@ -5,7 +5,7 @@ NodeJS - Projects and Assignments.
 
 ### Tasks
 ---
-- [ ] JavaScript - W3Schools Review
+- [ ] JavaScript - W3Schools Review: Intro
 
 
 ### Resources
