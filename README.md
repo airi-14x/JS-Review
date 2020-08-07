@@ -5,7 +5,8 @@ NodeJS - Projects and Assignments.
 
 ### Tasks
 ---
-- [ ] JavaScript - W3Schools Review: Intro
+- [X] JavaScript - W3Schools Review: Intro (August 7th 2020)
+- [ ] JS - Forms
 
 
 ### Resources
