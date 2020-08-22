@@ -7,7 +7,7 @@ NodeJS - Projects and Assignments.
 ---
 - [X] JavaScript - W3Schools Review: Intro (August 7th 2020)
 - [X] JS - Forms (August 11th 2020)
-- [ ] JS - Objects
+- [ ] TOP: NodeJS - Intro
 
 
 ### Resources
