@@ -8,7 +8,6 @@ NodeJS - Projects and Assignments.
 - [X] JavaScript - W3Schools Review: Intro (August 7th 2020)
 - [X] JS - Forms (August 11th 2020)
 - [ ] **TOP: NodeJS - Intro**
-- [ ] GitLab - Otakuthon Web App's PR #1
 
 
 ### Resources
