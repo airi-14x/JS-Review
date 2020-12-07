@@ -1,5 +1,4 @@
-# TheOdinProject-NodeJS
-NodeJS - Projects and Assignments.
+# JS-Review
 
 *Start: July 17th 2020*
 - Status: Archiving and Recreating next project
