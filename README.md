@@ -2,6 +2,7 @@
 NodeJS - Projects and Assignments.
 
 *Start: July 17th 2020*
+- Status: Archiving and Recreating next project
 
 ### Tasks
 ---
